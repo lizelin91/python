@@ -1,0 +1,11 @@
+hello lusi 
+ i am new
+ this is ok
+a new string
+one
+two
+three
+
+one
+two
+three
